@@ -1,15 +1,12 @@
-# The Intellectual Property Rights Ontology
+# The Intellectual Property Rights (IPR) Ontology (IPRO)
 
-A computational ontology about the domain of intellectual property and associated rights. 
-
-### Scope
-
-### Purpose
+The IPRO is a computational ontology about the domain of intellectual property and associated rights. 
+## Purpose
 * To support legal disciplines, specifically intellectual property topics, content, data and activities the world over.
 * To explore content search and retrieval of relevant legal data and documents.
 * ... 
 
-### Status
+## Status
 * In-progress as circumstances permit. Subject to revision. 
 * ACTIVELY OPEN TO: financial support & a stable environment with professionals, mentors, and other resources to continue and sustain development.
 
